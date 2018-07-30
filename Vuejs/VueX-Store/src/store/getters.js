@@ -1,4 +1,3 @@
-/* eslint-disable */
 export default {
   newTask: state => state.newTask,
   tasks: state =>
@@ -10,4 +9,3 @@ export default {
       return task.completed
     })
 }
-/* eslint-disable */

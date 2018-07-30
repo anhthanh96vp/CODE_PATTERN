@@ -1,4 +1,3 @@
-/* eslint-disable */
 <template>
     <div id="get-tasks">
         <form @submit.prevent="addTask">
@@ -34,4 +33,3 @@
         }
     }
 </script>
-/* eslint-disable */
